@@ -138,7 +138,9 @@
 
 ## 7. 발표 자료&참고 자료
 
-[2023 Bigconetest 발표 자료](https://github.com/yugwangyeol/2023-BigContest/blob/main/Presentation/%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B6%84%EC%95%BC_%ED%8C%80_E1I3S4T3F1J4.pdf)
+[2023 Bigconetest 발표 자료](https://github.com/yugwangyeol/2023-BigContest/blob/main/Presentation/%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B6%84%EC%95%BC_%ED%8C%80_E1I3S4T3F1J4.pdf)  
+
+<br/>
 
 ## 8. 증빙 자료
 ![스크린샷 2024-01-23 234949](https://github.com/yugwangyeol/2023-BigContest/assets/72298825/a0c2b163-04a4-43a1-8d69-1c6fc017fda3)
