@@ -42,7 +42,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; 2023 Bigcontest 여러 분야중에 비정형 데이터 분석 분야에 참가하였다. 비정형 데이터 분석 분야 주제는 **씨름 영상데이터를 활용한 씨름 영상 분석모델 도출 및 활용방안 제시**로 분석 뿐만 아니라 서비스 방면도 고려해야 한다. 주어진 데이터는 약 2시간 정도의 씨름 유튜브 영상과 경기 기록 데이터, 씨름 기술 소개 영상 3개였다. 해당 데이터를 가지고 분석을 진행하였다. 
 
-<img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/2c7620a4-4a7a-4442-bc84-4a46e7cb20a1"  width="557"/> | <img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/948a7f9a-1882-455c-8b2e-77c2064605d3"  width="557"/>---|---|
+| <img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/2c7620a4-4a7a-4442-bc84-4a46e7cb20a1"  width="500"/> | <img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/948a7f9a-1882-455c-8b2e-77c2064605d3"  width="500"/>|
 
 
 <br/>
