@@ -22,7 +22,7 @@
 - 후원: KBD 빅데이터포럼
 - 참가 대상: 전국 대학(원)생(휴학생 포함) - 전일제 대학(원)생만 해당
 - 성과 : 2023 빅콘테스트 비정형데이터 분석 부문 최우수상 수상 (1등)
-- 특허 : 현재 진행 중중
+- 특허 : 현재 진행 중
 <br/>
 
 ![스크린샷 2024-01-23 234949](https://github.com/yugwangyeol/2023-BigContest/assets/72298825/a0c2b163-04a4-43a1-8d69-1c6fc017fda3)
@@ -61,7 +61,7 @@
 
 <br/>
 
-<img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/0d016a54-7e07-42ec-9a2a-b07023356877"  width="900"/>
+<img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/0d016a54-7e07-42ec-9a2a-b07023356877"  width="900"/>  
 
 <br/>
 
@@ -78,53 +78,45 @@
 
 <br/>
 
-## 5-1. 예선 Process
+## 5. 예선 Process
 
-### ch.1 EDA  
+### ch.1 Data Preparation 
 
-- 나라별, 항구별, 배의 타입별 등등의 특성 확인
-- 각 배의 카테고리컬한 피처들의 조합의 통계값들 확인
-- **기상정보에 대한 Target값 로직 파악**
-
----
-
-### ch.2 Feature Engineering  
-
-- 시간 feature들은 inherently cyclical 하다는 특징을 활용하기 위해 sin/cos 변환
-- 특정 피처들의 target 값의 평균으로 파생 변수 생성
-- Clustering
+- 추가 영상 데이터 수집
+- 영상 분할
+- 해설진 음성 추출
+- 선수 데이터 수집
+- 기술 사전 생성
+- 데이터 변수 라벨
 
 ---
 
-### ch.3 Modeling
+### ch.2 Modeling  
 
-- Autogluon
-- 기상정보에 따른 후처
-
-<br/>
-
-## 5-2. 본선 Process
-
-### ch.1 EDA  
-
-- Signal, Sensor 관계 파악
-- **Signal, Sensor를 통한 건설 기계 추정**
+- KeyPoint Detection (YoloV8, RPM Pose)
+- Object Tracking (CoTracker, Pips)
+- STT (SeamlessM$T, Whisper)
 
 ---
 
-### ch.2 Feature Engineering  
+### ch.3 Post-processing
 
-- Fourier transform 등 다양한 피쳐 변환
-- 부하 토크, 동적 반응 피쳐 생성
-- ML에 맞게 Widow를 통한 피쳐 변환
+- STT 기술 사전 적용
+- Object Tracking Zoom In/Out 탐지
 
----
+### ch.4 Regression
 
-### ch.3 Modeling
+- 변수 설정
+- Stats model 생성
+- 체력 지표 계산
+- EDA
 
-- LSTM
-- CNN_LSTM
-- Autogulon
+### ch.5 Content
+
+- 경기 중 체력 현황 사이드바
+- 경기 시작 전 선수 소개 체력 지표 표시
+- 경기 시 선수 머리 위에 체력 게이지 표시
+- 실시간 방식 제안
 
 <br/>
 
@@ -132,18 +124,20 @@
 
 **[팀원]**
 
-- 학부생 3명
+- 학부생 4명
 
 **[담당 역할]**
 
-- 데이터 전처리 및 EDA
-- 인사이트 도출
-- 모델링&알고리즘 개발
-- 발표 자료 제작
+- 
 
 <br/>
 
-## 6. 발표 자료&참고 자료
+## 7. 발표 자료&참고 자료
 
-[HD-AI-CHALLENGE DACON](https://dacon.io/competitions/official/236158/overview/description)  
-[HD AI Challenge 본선 발표 자료](https://github.com/yugwangyeol/HD-AI_Challenge/blob/main/Presentation/%5BHD%5D%ED%98%84%EB%8C%80_%EC%B5%9C%EC%A2%85.pdf)
+[2023 Bigconetest 발표 자료](https://github.com/yugwangyeol/2023-BigContest/blob/main/Presentation/%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B6%84%EC%95%BC_%ED%8C%80_E1I3S4T3F1J4.pdf)
+
+## 8. 증빙 자료
+![스크린샷 2024-01-23 234949](https://github.com/yugwangyeol/2023-BigContest/assets/72298825/a0c2b163-04a4-43a1-8d69-1c6fc017fda3)
+![KakaoTalk_20240124_003630353](https://github.com/yugwangyeol/2023-BigContest/assets/72298825/d54bdd2b-a690-4d61-bebd-7d96087df1d6)
+
+
