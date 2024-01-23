@@ -104,12 +104,16 @@
 - STT 기술 사전 적용
 - Object Tracking Zoom In/Out 탐지
 
+---
+
 ### ch.4 Regression
 
 - 변수 설정
 - Stats model 생성
 - 체력 지표 계산
 - EDA
+
+---
 
 ### ch.5 Content
 
