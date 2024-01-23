@@ -53,7 +53,7 @@
 
 <br/>
 
-<img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/aa8b8064-e3e2-4e1a-8ca4-c74396140e5c"  width="300"/><img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/b8b271a1-add4-4d6e-b961-6c6aca1c9a6c"  width="300"/>
+<img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/aa8b8064-e3e2-4e1a-8ca4-c74396140e5c"  width="400"/><img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/b8b271a1-add4-4d6e-b961-6c6aca1c9a6c"  width="400"/>
 
 <br/>
 
@@ -61,7 +61,7 @@
 
 <br/>
 
-<img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/0d016a54-7e07-42ec-9a2a-b07023356877"  width="600"/>  
+<img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/0d016a54-7e07-42ec-9a2a-b07023356877"  width="800"/>  
 
 <br/>
 
@@ -69,8 +69,8 @@
 
 <br/>
 
-<img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/be638113-654a-49ff-a761-c378795e72f5"  width="300"/><img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/ed5ef421-2466-455b-9344-7846e5e581dd"  width="300"/>
-<img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/82454229-8026-4519-b964-3b9ab786ad51"  width="300"/><img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/c1ff0a56-c920-47c6-8d9a-8f45c2359eeb"  width="300"/>
+<img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/be638113-654a-49ff-a761-c378795e72f5"  width="400"/><img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/ed5ef421-2466-455b-9344-7846e5e581dd"  width="400"/>
+<img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/82454229-8026-4519-b964-3b9ab786ad51"  width="400"/><img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/c1ff0a56-c920-47c6-8d9a-8f45c2359eeb"  width="400"/>
 
 <br/>
 
