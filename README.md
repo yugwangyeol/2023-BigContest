@@ -42,22 +42,38 @@
 ## 4. 프로젝트 소개
 
 &nbsp;&nbsp;&nbsp;&nbsp; 2023 Bigcontest 비정형 데이터 분석 분야 주제는 **씨름 영상데이터를 활용한 씨름 영상 분석모델 도출 및 활용방안 제시**로 분석 뿐만 아니라 서비스 방면도 고려해야 한다. 주어진 데이터는 약 2시간 정도의 씨름 유튜브 영상과 경기 기록 데이터, 씨름 기술 소개 영상 3개였다. 해당 데이터를 가지고 분석을 진행하였다. 
+
 <br/>
+
 <img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/2c7620a4-4a7a-4442-bc84-4a46e7cb20a1"  width="450"/><img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/948a7f9a-1882-455c-8b2e-77c2064605d3"  width="450"/>
+
 <br/>
+
 &nbsp;&nbsp;&nbsp;&nbsp; 생소한 씨름이라는 도메인을 공부하며, 한국 씨름의 하락세의 원인으로 위와 같은 3가지 문제점을 선정하였다. 그리고 이를 해결 하기 위해 **AI 기술을 활용한 선수 체력 지표 개발 및 콘텐츠화**를 주제로 진행하였다.
+
 <br/>
+
 <img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/aa8b8064-e3e2-4e1a-8ca4-c74396140e5c"  width="450"/><img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/b8b271a1-add4-4d6e-b961-6c6aca1c9a6c"  width="450"/>
+
 <br/>
+
 &nbsp;&nbsp;&nbsp;&nbsp; 이를 해결 하기 위해 기존 데이터로 부터 키, 몸무게, 샅바시간, 경기시간, 휴식시간, 라운드를 라벨링 및 데이터를 추출하였다. 그리고 **STT기술을 활용하여 해설진의 목소리로부터 선수들의 기술횟수와 Object Tracking을 활용하여 선수들의 움직임 거리**를 추출 하였다.
+
 <br/>
-![스크린샷 2024-01-24 001609](https://github.com/yugwangyeol/2023-BigContest/assets/72298825/0d016a54-7e07-42ec-9a2a-b07023356877)
+
+<img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/0d016a54-7e07-42ec-9a2a-b07023356877"  width="900"/>
+
 <br/>
+
 &nbsp;&nbsp;&nbsp;&nbsp; 생성된 변수들을 가지고 누적 경기값을 Target값으로 회귀 분석 통해 선수들의 체력 지표를 생성하였다.
+
 <br/>
+
 <img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/be638113-654a-49ff-a761-c378795e72f5"  width="450"/><img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/ed5ef421-2466-455b-9344-7846e5e581dd"  width="450"/>
 <img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/82454229-8026-4519-b964-3b9ab786ad51"  width="450"/><img src="https://github.com/yugwangyeol/2023-BigContest/assets/72298825/c1ff0a56-c920-47c6-8d9a-8f45c2359eeb"  width="450"/>
+
 <br/>
+
 &nbsp;&nbsp;&nbsp;&nbsp; 이를 통해 중계화면 사이드바에 선수들의 체력 지표 표시, 선수 소개 시 남은 체력 표시, 게임과 같은 효과와 같은 새로운 콘텐츠와 실시간으로 입력 가능한 서비스를 제안하였다.
 
 <br/>
