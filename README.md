@@ -145,5 +145,5 @@
 ## 8. 증빙 자료
 ![스크린샷 2024-01-23 234949](https://github.com/yugwangyeol/2023-BigContest/assets/72298825/a0c2b163-04a4-43a1-8d69-1c6fc017fda3)
 ![KakaoTalk_20240124_003630353](https://github.com/yugwangyeol/2023-BigContest/assets/72298825/d54bdd2b-a690-4d61-bebd-7d96087df1d6)
-
+![KakaoTalk_20240130_160035591_02](https://github.com/yugwangyeol/2023-BigContest/assets/72298825/16857422-0ae8-44af-9d29-7768ef5a0745)
 
