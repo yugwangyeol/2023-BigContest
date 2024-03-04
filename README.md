@@ -78,7 +78,7 @@
 
 <br/>
 
-## 5. 예선 Process
+## 5. Process
 
 ### ch.1 Data Preparation 
 
